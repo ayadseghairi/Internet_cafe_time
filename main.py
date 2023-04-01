@@ -5,7 +5,7 @@ import webbrowser
 import psutil
 import sys
 win = tkinter.Tk()
-win.title("Your Time (Ayad Seghairi)")
+win.title("Your Time (Ayad Seghairi & PAPALE)")
 win.geometry("500x500")
 win.configure(background="black")
 #########################################
